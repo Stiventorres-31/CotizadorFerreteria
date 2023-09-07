@@ -19,4 +19,3 @@ Este proyecto fue enfocado para que los clientes de una ferreteria, donde pueden
    * Registro de cotización
    * Seguimiento de cotización
    * Modificación de su perfil
-3. 
